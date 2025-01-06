@@ -2,10 +2,6 @@
 
 This is a simple website for a moving company called "Move It". The project was built using Bootstrap 5 and focuses on making the website responsive with an emphasis on UI components such as navigation bars, hero sections, features, carousels, and footers. The website is mobile-first and optimized for both desktop and mobile devices.
 
-## Overview
-
-"Move It" is a moving company that offers various services such as professional moving, countrywide services, and a personal touch. The website is designed to attract customers by highlighting the main services offered, allowing easy navigation through the navbar, and providing a carousel to showcase images of happy clients.
-
 ## 🚀 Features 
 
 - **Navbar**: A responsive navigation bar with links to different sections of the site.
